@@ -1,0 +1,64 @@
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.pdb
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.pdb
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.exe
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.pdb
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.exe
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\bin\Debug\Poker.pdb
+G:\School\Jaar2\Visual Studio\Poker - kopie\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\bin\Debug\Poker.exe.config
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\obj\Debug\Poker.exe
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\obj\Debug\Poker.pdb
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\bin\Debug\Poker.exe
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\bin\Debug\Poker.pdb
+C:\Users\Game Developer\Desktop\Poker - kopie\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+G:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe.config
+G:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.exe
+G:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.pdb
+G:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe
+G:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.pdb
+G:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe.config
+E:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.pdb
+E:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.pdb
+E:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+K:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe.config
+K:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker\Poker\bin\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\bin\Debug\Poker.exe.config
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\bin\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\bin\Debug\Poker.pdb
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\obj\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker - backup\Poker\obj\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\bin\Debug\Poker.exe.config
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\obj\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\obj\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\bin\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\bin\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker Game - kopie\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\bin\Debug\Poker.exe.config
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\obj\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\obj\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\bin\Debug\Poker.exe
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\bin\Debug\Poker.pdb
+K:\School\Jaar2\Visual Studio\Poker Game - kopie - Copy\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\bin\Debug\Poker.exe.config
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\bin\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\bin\Debug\Poker.pdb
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\obj\Debug\Poker.exe
+E:\School\Jaar2\Visual Studio\Poker Game\Poker\obj\Debug\Poker.pdb
